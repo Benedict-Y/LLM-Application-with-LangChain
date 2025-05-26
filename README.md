@@ -1,4 +1,4 @@
-# CS-6493-LLM-Application-with-LangChain
+# LLM-Application-with-LangChain
 ## 🧠 Financial Agent Framework: AI-Driven Report Generation & Evaluation
 
 
